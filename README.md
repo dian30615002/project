@@ -1,2 +1,2 @@
 # project
-repositori ini berisi kegiatan penelitian
+repositori ini berisi kegiatan penelitian, workshop selama studi S3
